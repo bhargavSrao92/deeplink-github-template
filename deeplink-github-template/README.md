@@ -12,4 +12,4 @@ Then:
    applinks:YOUR_USERNAME.github.io
 
 Test:
-https://YOUR_USERNAME.github.io/product/123
+https://bhargavSrao92.github.io/product/123
